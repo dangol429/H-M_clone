@@ -1,0 +1,4 @@
+module.exports = {
+    MONGODB_URL: "mongodb+srv://prathamdangol:shiwam12345@cluster0.hwhltgv.mongodb.net/",
+    JWT_SECRET: "hafsfffgg72846285jjjkh54646467hh"
+}
