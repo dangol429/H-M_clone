@@ -1,0 +1,61 @@
+/* COMPLETE CSS FOR COMPONENT */
+
+/* NAVBAR */
+.wakabu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+  }
+  
+  #navbarLogo{
+    position: absolute;
+    justify-content: center;
+    top:3rem;
+  }
+  #bottomnavbar{
+    justify-content: center;
+    top:3rem;
+  }
+
+/* FOOTER */
+
+
+.footer{
+    background-color:#e4e4e4;
+    color: black;
+    padding: 30px;
+  }
+
+h5{
+    text-align: center;
+    font-weight: bolder;
+}
+
+.page-content {
+    padding-bottom: 60px; /* Adjust for footer height */
+}
+  
+  #socials{
+    text-align: center;
+  }
+
+  #socials a {
+    color: black;
+    font-size: larger;
+    padding:10px;
+  }
+  
+  #footerLogo{
+    width: 3rem;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    margin-top: 1.6rem;
+  }
+  .country{
+    text-align: center;
+    font-size: small;
+  }
+
+  

@@ -1,0 +1,32 @@
+.Pants{
+    margin-top: 4rem;
+    width:100%;
+}
+#pants{
+    width:70rem;
+    text-align: center;
+}
+.DescPants{
+    position: absolute;
+    bottom: 2rem;
+    color: white;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%);
+}
+.DescShirt{
+    position: relative;
+    bottom: 30rem;
+    color: white;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%);
+}
+.DescShoes{
+    position: relative;
+    color: white;
+    bottom: 11rem;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%);
+}
